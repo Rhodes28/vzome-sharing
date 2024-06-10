@@ -1,7 +1,5 @@
 ---
-title: ''
-subtitle: rt other stellations
-share-title: rt other stellations
+title: Other Stellations
 share-description: An interactive 3D view, shared from vZome
 image: https://Rhodes28.github.io/vzome-sharing/2024/06/10/17-15-00-rt-other-stellations/rt-other-stellations.png
 layout: design
