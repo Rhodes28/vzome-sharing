@@ -1,7 +1,5 @@
 ---
-title: ''
-subtitle: rt stellations
-share-title: rt stellations
+title: Rhombic Triacontahedron Stellation Diagram
 share-description: An interactive 3D view, shared from vZome
 image: https://Rhodes28.github.io/vzome-sharing/2024/06/10/10-37-38-rt-stellations/rt-stellations.png
 layout: design
